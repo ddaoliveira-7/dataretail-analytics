@@ -48,3 +48,20 @@ dataretail-analytics/
 ├── powerbi/
 ├── docs/
 └── README.md
+
+## Status do projeto
+
+🚧 Em desenvolvimento
+
+### Roadmap
+
+- [x] Criar repositório
+- [x] Estrutura inicial
+- [ ] Modelagem do banco de dados
+- [ ] Gerar dataset
+- [ ] Criar banco MySQL
+- [ ] Consultas SQL
+- [ ] Dashboard Excel
+- [ ] Dashboard Power BI
+- [ ] Documentação
+- [ ] Publicação no LinkedIn
