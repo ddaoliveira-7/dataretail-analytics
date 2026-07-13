@@ -1,67 +1,85 @@
-# DataRetail Analytics
+# 📊 Data Retail Analytics
 
-Projeto de portfólio desenvolvido para simular um ambiente real de análise de dados de uma empresa do setor varejista.
+## 📌 Project Overview
 
-## Objetivo
+This project was developed to simulate a real-world retail sales environment, applying Data Analytics concepts through SQL, Excel, and Power BI.
 
-Construir uma solução completa de Business Intelligence, passando pelas etapas de:
+The objective is to answer business questions, generate insights, and build interactive dashboards to support decision-making.
 
-- Modelagem de banco de dados
-- Geração e tratamento de dados
-- Consultas SQL
-- Análise exploratória
-- Criação de indicadores
-- Dashboards no Excel
-- Dashboards no Power BI
-- Documentação dos resultados
+---
 
-## Áreas analisadas
+## 🎯 Business Objectives
 
-- Comercial
-- Financeiro
-- Clientes
-- Produtos
-- Estoque
-- Logística
-- Desempenho de vendedores
+- Analyze sales performance
+- Identify top-selling products
+- Evaluate regional performance
+- Monitor salesperson performance
+- Analyze customer segments
+- Measure revenue and KPIs
 
-## Tecnologias
+---
+
+## 🛠️ Technologies Used
 
 - SQL
-- MySQL
-- Microsoft Excel
-- Power Query
-- Power Pivot
+- Excel
 - Power BI
-- DAX
 - Git
 - GitHub
 
-## Estrutura planejada
+---
+
+## 📂 Project Structure
 
 ```text
-dataretail-analytics/
-├── database/
-├── dataset/
-├── sql/
-├── excel/
-├── powerbi/
-├── docs/
-└── README.md
+database/
+dataset/
+sql/
+excel/
+powerbi/
+docs/
+```
 
-## Status do projeto
+---
 
-🚧 Em desenvolvimento
+## 📊 Business Questions
 
-### Roadmap
+Examples of analyses included in this project:
 
-- [x] Criar repositório
-- [x] Estrutura inicial
-- [ ] Modelagem do banco de dados
-- [ ] Gerar dataset
-- [ ] Criar banco MySQL
-- [ ] Consultas SQL
-- [ ] Dashboard Excel
-- [ ] Dashboard Power BI
-- [ ] Documentação
-- [ ] Publicação no LinkedIn
+- Which products generate the highest revenue?
+- Which salespeople achieved their targets?
+- Which customer segment generates the most revenue?
+- Which payment method has the highest cancellation rate?
+- What are the top 5 highest-value delivered orders?
+
+---
+
+## 📈 Dashboards
+
+Power BI Dashboard
+
+*(Dashboard image will be added soon.)*
+
+Excel Dashboard
+
+*(Dashboard image will be added soon.)*
+
+---
+
+## 🚀 Skills Demonstrated
+
+- Data Analysis
+- SQL Queries
+- Data Modeling
+- Business Intelligence
+- Dashboard Development
+- KPI Analysis
+- Data Visualization
+
+---
+
+## 👤 Author
+
+**Peter Gray**
+
+Aspiring Data Analyst | SQL | Excel | Power BI | Data Analytics
