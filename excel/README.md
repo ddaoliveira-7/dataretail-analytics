@@ -91,3 +91,9 @@ The Excel dashboard enables stakeholders to quickly identify:
 ## Status
 
 🚧 Dashboard development in progress.
+
+---
+
+# Dashboard Preview
+
+![Excel Dashboard](dashboard_preview.png)
